@@ -2,6 +2,11 @@
 
 baseURL: https://controverses-ia-transhumanismes.mmibordeaux.com
 
+## OSUNY
+osuny:
+  website:
+    id: f57c85a8-e579-44b0-a44a-308700db3d87
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
