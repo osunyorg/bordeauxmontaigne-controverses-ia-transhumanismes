@@ -14,12 +14,12 @@ items:
   new_tab: false
   children:
   - title: Intelligence artificielle
-    target: "/productions/controverses/"
+    target: "/productions/controverse/"
     kind: category
     new_tab: false
     children: []
-    path: "/posts_categories/controverses"
-    file: content/fr/posts_categories/controverses/_index.html
+    path: "/posts_categories/controverse"
+    file: content/fr/posts_categories/controverse/_index.html
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Équipe
