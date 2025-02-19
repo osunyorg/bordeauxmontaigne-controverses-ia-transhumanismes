@@ -12,7 +12,12 @@ items:
   target: "/productions/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: Intelligence artificielle
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Équipe
