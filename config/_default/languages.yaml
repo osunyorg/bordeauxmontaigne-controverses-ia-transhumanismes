@@ -11,8 +11,6 @@ fr:
 
   permalinks:
     pages_categories: /:slug/
-    projects: /projets/:year-:slug/
-    projects_categories: /projets/:slug/
     posts: /productions/:year-:month-:day-:slug/
     posts_categories: /productions/:slug/
     persons: /equipe/:slug/
