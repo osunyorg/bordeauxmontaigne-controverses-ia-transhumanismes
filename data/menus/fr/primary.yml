@@ -8,7 +8,7 @@ items:
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
-- title: Productions
+- title: Controverses
   target: "/productions/"
   kind: page
   new_tab: false
