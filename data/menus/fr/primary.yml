@@ -20,6 +20,13 @@ items:
     children: []
     path: "/posts_categories/format/nouvelle"
     file: content/fr/posts_categories/format/nouvelle/_index.html
+  - title: 'Frise Chronologique '
+    target: "/productions/format/frise-chronologique/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/format/frise-chronologique"
+    file: content/fr/posts_categories/format/frise-chronologique/_index.html
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Équipe
