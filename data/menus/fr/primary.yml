@@ -8,6 +8,13 @@ items:
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
+- title: Controverses
+  target: "/controverses/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/controverses"
+  file: content/fr/pages/controverses/_index.html
 - title: Productions
   target: "/productions/"
   kind: page
