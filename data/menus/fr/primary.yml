@@ -12,14 +12,7 @@ items:
   target: "/productions/"
   kind: page
   new_tab: false
-  children:
-  - title: Nouvelle
-    target: "/productions/format/nouvelle/"
-    kind: category
-    new_tab: false
-    children: []
-    path: "/posts_categories/format/nouvelle"
-    file: content/fr/posts_categories/format/nouvelle/_index.html
+  children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Équipe
