@@ -20,13 +20,6 @@ items:
     children: []
     path: "/posts_categories/intelligence-artificielle"
     file: content/fr/posts_categories/intelligence-artificielle/_index.html
-  - title: 'Transhumanisme '
-    target: "/productions/transhumanisme/"
-    kind: category
-    new_tab: false
-    children: []
-    path: "/posts_categories/transhumanisme"
-    file: content/fr/posts_categories/transhumanisme/_index.html
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Équipe
