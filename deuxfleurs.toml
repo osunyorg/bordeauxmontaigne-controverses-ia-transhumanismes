@@ -13,3 +13,152 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/productions/intelligence-artificielle/emotions/index.html"
+to = "/productions/controverse/emotions/"
+
+[[redirects]]
+from = "/productions/comment-lia-peut-elle-lutter-contre-le-cyberharcelement/index.html"
+to = "/productions/controverse/comment-lia-peut-elle-lutter-contre-le-cyberharcelement/"
+
+[[redirects]]
+from = "/productions/2025-02-19-comment-lia-peut-elle-lutter-contre-le-cyberharcelement/index.html"
+to = "/productions/2025-02-14-comment-lia-peut-elle-lutter-contre-le-cyberharcelement/"
+
+[[redirects]]
+from = "/productions/transhumanisme/definition-humanite/index.html"
+to = "/productions/controverse/definition-humanite/"
+
+[[redirects]]
+from = "/productions/2025-02-07-alteration-duree-vie-humaine/index.html"
+to = "/productions/2025-02-07-l-evolution-de-la-quete-de-longevite/"
+
+[[redirects]]
+from = "/actualites/format/nouvelle/index.html"
+to = "/productions/format/nouvelle/"
+
+[[redirects]]
+from = "/actualites/transhumanisme/immortalite/index.html"
+to = "/productions/controverse/immortalite/"
+
+[[redirects]]
+from = "/equipe/mailys-curtat/actualites/index.html"
+to = "/equipe/mailys-curtat/productions/"
+
+[[redirects]]
+from = "/actualites/format/frise-chronologique/index.html"
+to = "/productions/format/frise-chronologique/"
+
+[[redirects]]
+from = "/productions/intelligence-artificielle/index.html"
+to = "/productions/controverse/"
+
+[[redirects]]
+from = "/productions/2025-02-07-frise-lamia-mailys/index.html"
+to = "/productions/2025-02-07-l-ia-et-le-declin-de-l-effort-de-reflexion/"
+
+[[redirects]]
+from = "/productions/2025-02-07-xx-frise-soufclem/index.html"
+to = "/productions/2025-02-07-l-ia-dans-l-information-de-la-creation-a-la-manipulation-et-la-desinformation/"
+
+[[redirects]]
+from = "/productions/2025-02-19-frise-lamia-mailys/index.html"
+to = "/productions/2025-02-07-l-ia-et-le-declin-de-l-effort-de-reflexion/"
+
+[[redirects]]
+from = "/productions/intelligence-artificielle/lia-doit-elle-avoir-une-moralite-programmee/index.html"
+to = "/productions/controverse/lia-doit-elle-avoir-une-moralite-programmee/"
+
+[[redirects]]
+from = "/productions/controverses/index.html"
+to = "/productions/controverse/"
+
+[[redirects]]
+from = "/productions/2025-02-19-xx-frise-soufclem/index.html"
+to = "/productions/2025-02-07-l-ia-dans-l-information-de-la-creation-a-la-manipulation-et-la-desinformation/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/productions/"
+
+[[redirects]]
+from = "/productions/intelligence-artificielle/definition-humanite/index.html"
+to = "/productions/controverse/definition-humanite/"
+
+[[redirects]]
+from = "/actualites/intelligence-artificielle/index.html"
+to = "/productions/controverse/"
+
+[[redirects]]
+from = "/productions/intelligence-artificielle/comment-lia-peut-elle-lutter-contre-le-cyberharcelement/index.html"
+to = "/productions/controverse/comment-lia-peut-elle-lutter-contre-le-cyberharcelement/"
+
+[[redirects]]
+from = "/actualites/transhumanisme/definition-humanite/index.html"
+to = "/productions/controverse/definition-humanite/"
+
+[[redirects]]
+from = "/actualites/format/podcast/index.html"
+to = "/productions/format/podcast/"
+
+[[redirects]]
+from = "/productions/2025-02-20-yy/index.html"
+to = "/productions/2025-02-07-yy/"
+
+[[redirects]]
+from = "/productions/intelligence-artificielle/immortalite/index.html"
+to = "/productions/controverse/immortalite/"
+
+[[redirects]]
+from = "/productions/2025-02-19-cartographie-lia-a-t-elle-un-impact-sur-linformation/index.html"
+to = "/productions/2025-02-07-cartographie-lia-a-t-elle-un-impact-sur-linformation/"
+
+[[redirects]]
+from = "/productions/intelligence-artificielle/lia-diminue-telle-lintelligence-humaine-en-reduisant-leffort-de-reflexion/index.html"
+to = "/productions/controverse/lia-diminue-telle-lintelligence-humaine-en-reduisant-leffort-de-reflexion/"
+
+[[redirects]]
+from = "/productions/definition-humanite/index.html"
+to = "/productions/controverse/definition-humanite/"
+
+[[redirects]]
+from = "/actualites/2025-02-18-la-therapie-artificielle/index.html"
+to = "/productions/2025-02-18-la-therapie-artificielle/"
+
+[[redirects]]
+from = "/actualites/intelligence-artificielle/desinformation/index.html"
+to = "/productions/controverse/desinformation/"
+
+[[redirects]]
+from = "/productions/2025-02-10-alteration-duree-vie-humaine/index.html"
+to = "/productions/2025-02-07-l-evolution-de-la-quete-de-longevite/"
+
+[[redirects]]
+from = "/productions/2025-02-07-carte-nat-hugo/index.html"
+to = "/productions/2025-02-07-les-grandes-etapes-sur-la-maniere-dont-le-transhumanisme-pourrait-redefinir-l-humanite/"
+
+[[redirects]]
+from = "/productions/transhumanisme/immortalite/index.html"
+to = "/productions/controverse/immortalite/"
+
+[[redirects]]
+from = "/productions/intelligence-artificielle/desinformation/index.html"
+to = "/productions/controverse/desinformation/"
+
+[[redirects]]
+from = "/actualites/format/cartographie/index.html"
+to = "/productions/format/cartographie/"
+
+[[redirects]]
+from = "/productions/2025-02-07-xx-carthographie-natasha-hugo/index.html"
+to = "/productions/2025-02-07-transhumanisme-questionne-humanite/"
+
+[[redirects]]
+from = "/actualites/format/index.html"
+to = "/productions/format/"
+
+[[redirects]]
+from = "/actualites/intelligence-artificielle/emotions/index.html"
+to = "/productions/controverse/emotions/"
+
