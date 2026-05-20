@@ -35,10 +35,6 @@ from = "/productions/2025-02-07-alteration-duree-vie-humaine/index.html"
 to = "/productions/2025-02-07-l-evolution-de-la-quete-de-longevite/"
 
 [[redirects]]
-from = "/equipe/lamia-ziachi/index.html"
-to = "/equipe/lamia-z/"
-
-[[redirects]]
 from = "/actualites/format/nouvelle/index.html"
 to = "/productions/format/nouvelle/"
 
@@ -53,10 +49,6 @@ to = "/equipe/mailys-curtat/productions/"
 [[redirects]]
 from = "/actualites/format/frise-chronologique/index.html"
 to = "/productions/format/frise-chronologique/"
-
-[[redirects]]
-from = "/equipe/lamia-ziachi/productions/index.html"
-to = "/equipe/lamia-z/productions/"
 
 [[redirects]]
 from = "/productions/intelligence-artificielle/index.html"
@@ -87,6 +79,10 @@ from = "/productions/2025-02-19-xx-frise-soufclem/index.html"
 to = "/productions/2025-02-07-l-ia-dans-l-information-de-la-creation-a-la-manipulation-et-la-desinformation/"
 
 [[redirects]]
+from = "/equipe/lamia-z/index.html"
+to = "/equipe/lamia-ziachi/"
+
+[[redirects]]
 from = "/actualites/index.html"
 to = "/productions/"
 
@@ -97,6 +93,10 @@ to = "/productions/controverse/definition-humanite/"
 [[redirects]]
 from = "/actualites/intelligence-artificielle/index.html"
 to = "/productions/controverse/"
+
+[[redirects]]
+from = "/equipe/lamia-z/productions/index.html"
+to = "/equipe/lamia-ziachi/productions/"
 
 [[redirects]]
 from = "/productions/intelligence-artificielle/comment-lia-peut-elle-lutter-contre-le-cyberharcelement/index.html"
