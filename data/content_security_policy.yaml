@@ -5,6 +5,6 @@ allowed_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
-  - "cdn.knightlab.com"
   - "audioblog.arteradio.com"
   - "view.genially.com"
+  - "cdn.knightlab.com"
