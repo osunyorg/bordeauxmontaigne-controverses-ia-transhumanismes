@@ -67,6 +67,10 @@ from = "/productions/2025-02-19-frise-lamia-mailys/index.html"
 to = "/productions/2025-02-07-l-ia-et-le-declin-de-l-effort-de-reflexion/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/visuel-cyberharcelementpng/"
+
+[[redirects]]
 from = "/productions/intelligence-artificielle/lia-doit-elle-avoir-une-moralite-programmee/index.html"
 to = "/productions/controverse/lia-doit-elle-avoir-une-moralite-programmee/"
 
